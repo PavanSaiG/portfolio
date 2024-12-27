@@ -2,7 +2,7 @@
   "private": true,
   "name": "pavan_portfolio",
   "version": "1.2.0",
-  "homepage": "https://PavanSaiG.github.io/portfolio",
+  "homepage": "https://PavanSaiG.github.io",
   "scripts": {
     "build": "react-scripts build",
     "predeploy": "npm run build",
