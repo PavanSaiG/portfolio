@@ -3,7 +3,7 @@
 // Website related settings
 const settings = {
   isSplash: false, // Change this to true if you want to use the splash screen.
-  useCustomCursor: true, // Change this to false if you want the good'ol cursor
+  useCustomCursor: false, // Change this to false if you want the good'ol cursor
   googleTrackingID: "",
 };
 
@@ -173,7 +173,7 @@ const degrees = {
     {
       title: "JNTUA college of Engineering",
       subtitle: "B.Tech ",
-      logo_path: "jntua.jpg",
+      logo_path: "jntuaa.png",
       alt_name: "JNTUA",
       duration: "2015 - 2019",
       descriptions: [

@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.36903ca3.css",
-    "main.js": "/static/js/main.583dbbc7.js",
+    "main.js": "/static/js/main.abeb6301.js",
     "static/media/csir_logo.jpeg": "/static/media/csir_logo.3763901272d966216d93.jpeg",
     "static/media/fa-solid-900.svg": "/static/media/fa-solid-900.33f11e8e33e406b0dc21.svg",
     "static/media/fa-brands-400.svg": "/static/media/fa-brands-400.5f2a2f236048660df440.svg",
@@ -37,7 +37,6 @@
     "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.235a1aa30ba10c7d00d0.ttf",
     "static/media/100.jpg": "/static/media/100.73a08d34ff5c2197374f.jpg",
     "static/media/100.png": "/static/media/100.528a5c8b588ab5846e72.png",
-    "static/media/jntuaa.png": "/static/media/jntuaa.23899af520f2d5d48591.png",
     "static/media/googleAssistant.jpg": "/static/media/googleAssistant.547075a751cc15673246.jpg",
     "static/media/wrighter.jpg": "/static/media/wrighter.0a6efd88c7795e04684b.jpg",
     "static/media/fa-regular-400.woff": "/static/media/fa-regular-400.2ccf005a6998d30de3d3.woff",
@@ -49,10 +48,10 @@
     "static/media/buld.jpg": "/static/media/buld.55444b9789a64f32e2e5.jpg",
     "index.html": "/index.html",
     "main.36903ca3.css.map": "/static/css/main.36903ca3.css.map",
-    "main.583dbbc7.js.map": "/static/js/main.583dbbc7.js.map"
+    "main.abeb6301.js.map": "/static/js/main.abeb6301.js.map"
   },
   "entrypoints": [
     "static/css/main.36903ca3.css",
-    "static/js/main.583dbbc7.js"
+    "static/js/main.abeb6301.js"
   ]
 }
